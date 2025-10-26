@@ -25,7 +25,7 @@ export const Hero = () => {
               Hi, I'm <span className="text-gradient">Nira Tarek</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground">
-              Graphic Designer & Creative Visual Artist
+              Graphic Designer
             </p>
             <p className="text-lg text-muted-foreground">
               Transforming ideas into stunning visual experiences through innovative design solutions.
