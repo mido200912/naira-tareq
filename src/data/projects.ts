@@ -15,8 +15,8 @@ export const projects: Project[] = [
     image: jumiaPreview,
     category: "Branding",
     slug: "jumia",
-    imageCount: 0,
-    pdfCount: 2,
+    imageCount: 24,
+    pdfCount:0,
   },
 {
   id: "2",
@@ -26,8 +26,8 @@ export const projects: Project[] = [
   image: burgerPreview,
   category: "Branding",
   slug: "burger",
-  imageCount: 3,
-  pdfCount: 4,
+  imageCount: 6,
+  pdfCount: 0,
 },
 
 {
@@ -38,8 +38,8 @@ export const projects: Project[] = [
   image: resalaPreview,
   category: "Social Impact",
   slug: "resala",
-  imageCount: 12,
-  pdfCount: 1,
+  imageCount: 32,
+  pdfCount: 0,
 },
 
 {
@@ -50,8 +50,8 @@ export const projects: Project[] = [
   image: techPreview,
   category: "Culture & Heritage",
   slug: "2", // يطابق اسم مجلد الملفات (images/2 و pdfs/2)
-  imageCount: 0,
-  pdfCount: 1,
+  imageCount: 4,
+  pdfCount: 0,
 },
 
 
@@ -63,8 +63,8 @@ export const projects: Project[] = [
   image: fashionPreview,
   category: "Game",
   slug: "feeding fish",
-  imageCount: 0,
-  pdfCount: 1,
+  imageCount: 5,
+  pdfCount: 0,
 },
 
  {
@@ -75,7 +75,7 @@ export const projects: Project[] = [
   image: cafePreview,
   category: "Social Awareness",
   slug: "Violence against animals",
-  imageCount: 0,
-  pdfCount: 1,
+  imageCount: 4,
+  pdfCount: 0,
 },
 ]
