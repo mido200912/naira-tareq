@@ -13,11 +13,12 @@ export const About = () => {
       title: "Adobe Illustrator",
       description: "Professional vector graphics and logo design capabilities.",
     },
-    {
-      icon: Layers,
-      title: "Figma",
-      description: "Modern UI/UX design and prototyping for digital products.",
-    },
+ {
+  icon: Layers,
+  title: "Canva",
+  description: "Creative graphic design and visual content creation using Canva.",
+},
+
     {
       icon: Wand2,
       title: "After Effects",
